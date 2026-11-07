@@ -1,3 +1,3 @@
 # jalaninAja
 
-Saya mau belajar untuk anjay
+Belajar Laravel Step by Step : PHP
